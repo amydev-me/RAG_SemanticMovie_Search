@@ -60,3 +60,6 @@ This architecture is particularly well-suited for a variety of modern applicatio
 ---
 
 This setup brings together **Retrieval-Augmented Generation (RAG)**, **Generative AI**, and **Large Language Models (LLMs)** to create a powerful, intelligent system that provides highly relevant and context-aware search results. With **semantic search** and **vector indexing** at its core, this project demonstrates the true potential of modern NLP and generative technologies in real-world applications.
+
+<img width="1256" alt="Screenshot 2025-02-04 at 1 42 50 AM" src="https://github.com/user-attachments/assets/fe2db581-6c4d-4525-8d46-dc2c12403bae" />
+
