@@ -1,6 +1,6 @@
 # RAG Semantic Search with Hugging Face and MongoDB
 
-This project implements a **Retrieval-Augmented Generation (RAG)** semantic search system leveraging powerful techniques in natural language processing (NLP) to enhance search relevance and accuracy. By incorporating **Generative AI** and **Large Language Models (LLMs)**, this solution not only retrieves the most relevant documents but also generates contextually rich and meaningful responses.
+This project implements a semantic search system leveraging powerful techniques in natural language processing (NLP) to enhance search relevance and accuracy. By incorporating embeddings from Generative AI and Large Language Models (LLMs) such as BERT, GPT, or T5, this solution retrieves the most relevant documents based on semantic understanding, ensuring more meaningful and contextually accurate search results.
 
 ## Why Use RAG?
 
